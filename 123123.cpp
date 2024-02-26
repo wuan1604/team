@@ -2,6 +2,7 @@
 #include<string.h>
 
 int main(){
+//aaaaa
 	FILE *file;
 	file = fopen("text.txt","r");
 	char name[50];
