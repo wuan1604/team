@@ -12,7 +12,7 @@ int main(){
 	}else{
 		printf("Mo file thanh cong\n");
 		/*fflush(file);
-		printf("\nNhap vao du lieu:");
+		printf("\nNhap vao du lieu:");//aaaaa
 		gets(name);
 		printf("Nhap vao so tuoi:");
 		scanf("%d",&age);
